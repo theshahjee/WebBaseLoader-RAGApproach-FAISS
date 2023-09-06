@@ -1,1 +1,2 @@
 2023-09-05 - test: add basic unit test
+2023-09-06 - fix: update dependencies
