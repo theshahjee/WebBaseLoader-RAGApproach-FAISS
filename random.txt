@@ -1,3 +1,4 @@
 2023-09-05 - test: add basic unit test
 2023-09-06 - fix: update dependencies
 2023-09-07 - fix: update dependencies
+2023-09-08 - feat: add helper method
