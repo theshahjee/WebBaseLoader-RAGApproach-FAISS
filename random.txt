@@ -3,3 +3,4 @@
 2023-09-07 - fix: update dependencies
 2023-09-08 - feat: add helper method
 2023-09-14 - chore: cleanup code formatting
+2023-09-15 - chore: cleanup code formatting
