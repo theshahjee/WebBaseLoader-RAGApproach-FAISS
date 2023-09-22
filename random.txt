@@ -4,3 +4,4 @@
 2023-09-08 - feat: add helper method
 2023-09-14 - chore: cleanup code formatting
 2023-09-15 - chore: cleanup code formatting
+2023-09-22 - test: add basic unit test
