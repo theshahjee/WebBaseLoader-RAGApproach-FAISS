@@ -6,3 +6,4 @@
 2023-09-15 - chore: cleanup code formatting
 2023-09-22 - test: add basic unit test
 2023-09-25 - refactor: simplify function
+2023-09-28 - fix: update dependencies
