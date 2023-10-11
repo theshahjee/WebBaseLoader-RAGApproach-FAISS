@@ -15,3 +15,4 @@
 2023-10-10 - chore: cleanup code formatting
 2023-10-10 - fix: update dependencies
 2023-10-10 - docs: improve README
+2023-10-11 - style: fix spacing and lint errors
