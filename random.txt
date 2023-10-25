@@ -21,3 +21,4 @@
 2023-10-20 - fix: update dependencies
 2023-10-24 - fix: update dependencies
 2023-10-25 - fix: minor bug in logic
+2023-10-25 - chore: update requirements.txt
