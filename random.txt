@@ -24,3 +24,4 @@
 2023-10-25 - chore: update requirements.txt
 2023-10-26 - feat: add helper method
 2023-10-27 - chore: cleanup code formatting
+2023-10-27 - refactor: simplify function
