@@ -25,3 +25,4 @@
 2023-10-26 - feat: add helper method
 2023-10-27 - chore: cleanup code formatting
 2023-10-27 - refactor: simplify function
+2023-10-30 - fix: minor bug in logic
