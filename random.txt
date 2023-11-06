@@ -28,3 +28,4 @@
 2023-10-30 - fix: minor bug in logic
 2023-11-02 - docs: improve README
 2023-11-06 - style: fix spacing and lint errors
+2023-11-06 - chore: cleanup code formatting
