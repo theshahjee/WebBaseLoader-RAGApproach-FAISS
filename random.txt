@@ -29,3 +29,4 @@
 2023-11-02 - docs: improve README
 2023-11-06 - style: fix spacing and lint errors
 2023-11-06 - chore: cleanup code formatting
+2023-11-07 - fix: update dependencies
