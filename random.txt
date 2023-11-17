@@ -34,3 +34,4 @@
 2023-11-10 - feat: add helper method
 2023-11-14 - chore: cleanup code formatting
 2023-11-15 - docs: improve README
+2023-11-17 - docs: improve README
