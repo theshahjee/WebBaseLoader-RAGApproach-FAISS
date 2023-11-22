@@ -37,3 +37,4 @@
 2023-11-17 - docs: improve README
 2023-11-17 - refactor: simplify function
 2023-11-20 - refactor: simplify function
+2023-11-22 - fix: minor bug in logic
