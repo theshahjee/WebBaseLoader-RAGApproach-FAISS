@@ -38,3 +38,4 @@
 2023-11-17 - refactor: simplify function
 2023-11-20 - refactor: simplify function
 2023-11-22 - fix: minor bug in logic
+2023-11-22 - feat: add helper method
