@@ -44,3 +44,4 @@
 2023-12-01 - fix: minor bug in logic
 2023-12-04 - feat: add helper method
 2023-12-05 - test: add basic unit test
+2023-12-06 - docs: add inline comments for clarity
