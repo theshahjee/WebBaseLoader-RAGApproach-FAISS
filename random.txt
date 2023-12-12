@@ -45,3 +45,4 @@
 2023-12-04 - feat: add helper method
 2023-12-05 - test: add basic unit test
 2023-12-06 - docs: add inline comments for clarity
+2023-12-12 - chore: update requirements.txt
