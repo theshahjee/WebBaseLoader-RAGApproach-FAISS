@@ -49,3 +49,4 @@
 2023-12-13 - chore: cleanup code formatting
 2023-12-13 - feat: add helper method
 2023-12-15 - fix: update dependencies
+2023-12-19 - refactor: simplify function
