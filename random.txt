@@ -53,3 +53,4 @@
 2023-12-22 - chore: update requirements.txt
 2023-12-25 - chore: cleanup code formatting
 2023-12-26 - chore: update requirements.txt
+2023-12-26 - docs: improve README
