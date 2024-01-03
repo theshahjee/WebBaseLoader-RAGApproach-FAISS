@@ -55,3 +55,4 @@
 2023-12-26 - chore: update requirements.txt
 2023-12-26 - docs: improve README
 2024-01-01 - refactor: simplify function
+2024-01-03 - test: add basic unit test
