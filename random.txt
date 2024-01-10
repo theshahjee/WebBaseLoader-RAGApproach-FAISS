@@ -63,3 +63,4 @@
 2024-01-09 - docs: improve README
 2024-01-10 - fix: update dependencies
 2024-01-10 - chore: cleanup code formatting
+2024-01-10 - feat: add helper method
