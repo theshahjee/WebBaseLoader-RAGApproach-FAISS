@@ -66,3 +66,4 @@
 2024-01-10 - feat: add helper method
 2024-01-15 - fix: minor bug in logic
 2024-01-19 - style: fix spacing and lint errors
+2024-01-23 - refactor: simplify function
