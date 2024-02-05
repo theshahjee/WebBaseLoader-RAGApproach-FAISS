@@ -70,3 +70,4 @@
 2024-01-25 - style: fix spacing and lint errors
 2024-01-26 - refactor: simplify function
 2024-02-01 - feat: add helper method
+2024-02-05 - refactor: simplify function
