@@ -73,3 +73,4 @@
 2024-02-05 - refactor: simplify function
 2024-02-07 - refactor: simplify function
 2024-02-08 - chore: cleanup code formatting
+2024-02-14 - test: add basic unit test
