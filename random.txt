@@ -77,3 +77,4 @@
 2024-02-15 - fix: update dependencies
 2024-02-15 - style: fix spacing and lint errors
 2024-02-19 - style: fix spacing and lint errors
+2024-02-20 - refactor: simplify function
