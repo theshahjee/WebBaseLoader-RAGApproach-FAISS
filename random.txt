@@ -82,3 +82,4 @@
 2024-02-21 - chore: cleanup code formatting
 2024-02-21 - docs: improve README
 2024-02-27 - chore: update requirements.txt
+2024-03-01 - refactor: simplify function
