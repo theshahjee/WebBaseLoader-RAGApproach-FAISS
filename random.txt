@@ -89,3 +89,4 @@
 2024-03-22 - chore: cleanup code formatting
 2024-03-26 - chore: update requirements.txt
 2024-03-27 - chore: cleanup code formatting
+2024-03-28 - fix: minor bug in logic
