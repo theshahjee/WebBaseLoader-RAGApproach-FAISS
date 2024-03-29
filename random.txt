@@ -91,3 +91,4 @@
 2024-03-27 - chore: cleanup code formatting
 2024-03-28 - fix: minor bug in logic
 2024-03-29 - fix: minor bug in logic
+2024-03-29 - feat: add helper method
