@@ -98,3 +98,4 @@
 2024-04-09 - style: fix spacing and lint errors
 2024-04-12 - docs: improve README
 2024-04-16 - fix: update dependencies
+2024-04-16 - style: fix spacing and lint errors
