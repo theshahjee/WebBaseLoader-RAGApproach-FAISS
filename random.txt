@@ -110,3 +110,4 @@
 2024-04-24 - fix: update dependencies
 2024-04-24 - refactor: simplify function
 2024-04-29 - refactor: simplify function
+2024-05-01 - test: add basic unit test
