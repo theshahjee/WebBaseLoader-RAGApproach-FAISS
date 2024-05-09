@@ -112,3 +112,4 @@
 2024-04-29 - refactor: simplify function
 2024-05-01 - test: add basic unit test
 2024-05-06 - chore: update requirements.txt
+2024-05-09 - docs: add inline comments for clarity
