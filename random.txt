@@ -121,3 +121,4 @@
 2024-05-17 - docs: improve README
 2024-05-21 - feat: add helper method
 2024-05-22 - feat: add helper method
+2024-05-23 - docs: add inline comments for clarity
