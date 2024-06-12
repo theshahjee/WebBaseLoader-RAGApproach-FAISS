@@ -129,3 +129,4 @@
 2024-06-03 - style: fix spacing and lint errors
 2024-06-03 - docs: improve README
 2024-06-11 - chore: cleanup code formatting
+2024-06-12 - fix: update dependencies
