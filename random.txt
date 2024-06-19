@@ -133,3 +133,4 @@
 2024-06-18 - docs: add inline comments for clarity
 2024-06-18 - style: fix spacing and lint errors
 2024-06-19 - feat: add helper method
+2024-06-19 - test: add basic unit test
