@@ -134,3 +134,4 @@
 2024-06-18 - style: fix spacing and lint errors
 2024-06-19 - feat: add helper method
 2024-06-19 - test: add basic unit test
+2024-06-21 - fix: minor bug in logic
