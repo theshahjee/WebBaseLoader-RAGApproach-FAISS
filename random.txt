@@ -137,3 +137,4 @@
 2024-06-21 - fix: minor bug in logic
 2024-06-24 - docs: improve README
 2024-06-25 - docs: add inline comments for clarity
+2024-06-26 - test: add basic unit test
