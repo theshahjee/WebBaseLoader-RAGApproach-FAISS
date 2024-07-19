@@ -149,3 +149,4 @@
 2024-07-15 - style: fix spacing and lint errors
 2024-07-18 - feat: add helper method
 2024-07-19 - docs: improve README
+2024-07-19 - fix: minor bug in logic
