@@ -152,3 +152,4 @@
 2024-07-19 - fix: minor bug in logic
 2024-07-22 - test: add basic unit test
 2024-07-22 - chore: cleanup code formatting
+2024-07-26 - docs: add inline comments for clarity
