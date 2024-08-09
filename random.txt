@@ -160,3 +160,4 @@
 2024-08-06 - docs: improve README
 2024-08-07 - chore: update requirements.txt
 2024-08-07 - fix: minor bug in logic
+2024-08-09 - docs: add inline comments for clarity
