@@ -178,3 +178,4 @@
 2024-09-06 - fix: minor bug in logic
 2024-09-09 - refactor: simplify function
 2024-09-10 - style: fix spacing and lint errors
+2024-09-10 - test: add basic unit test
