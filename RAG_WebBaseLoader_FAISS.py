@@ -9,7 +9,7 @@ from langchain_community.vectorstores.faiss import FAISS
 from langchain.chains import create_retrieval_chain
 
 load_dotenv()
-os.environ['USER_AGENT'] = 'DemoBot-WebBaseLoader-FAISS-RAGApproach/1.0'
+os.environ['USER_AGENT'] = 'DemoBot-WebBaseLoader-FAISS-RAGApproach/2.0'
 
 def get_documents():
     loader = WebBaseLoader('https://acoup.blog/2019/05/20/new-acquisitions-elective-monarchy-and-the-future-of-westeros/')
