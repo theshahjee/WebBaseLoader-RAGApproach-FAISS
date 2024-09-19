@@ -183,3 +183,4 @@
 2024-09-17 - chore: cleanup code formatting
 2024-09-18 - chore: cleanup code formatting
 2024-09-18 - style: fix spacing and lint errors
+2024-09-19 - fix: minor bug in logic
