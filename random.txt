@@ -184,3 +184,4 @@
 2024-09-18 - chore: cleanup code formatting
 2024-09-18 - style: fix spacing and lint errors
 2024-09-19 - fix: minor bug in logic
+2024-09-20 - test: add basic unit test
