@@ -187,3 +187,4 @@
 2024-09-20 - test: add basic unit test
 2024-09-23 - chore: cleanup code formatting
 2024-09-24 - feat: add helper method
+2024-09-24 - docs: add inline comments for clarity
