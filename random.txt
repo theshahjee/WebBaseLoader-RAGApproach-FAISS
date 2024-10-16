@@ -198,3 +198,4 @@
 2024-10-07 - chore: cleanup code formatting
 2024-10-09 - test: add basic unit test
 2024-10-11 - docs: improve README
+2024-10-16 - docs: add inline comments for clarity
