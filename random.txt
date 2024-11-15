@@ -213,3 +213,4 @@
 2024-11-14 - docs: add inline comments for clarity
 2024-11-15 - refactor: simplify function
 2024-11-15 - docs: improve README
+2024-11-15 - docs: improve README
