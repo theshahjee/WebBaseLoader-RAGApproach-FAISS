@@ -224,3 +224,4 @@
 2024-12-05 - refactor: simplify function
 2024-12-10 - docs: add inline comments for clarity
 2024-12-11 - docs: add inline comments for clarity
+2024-12-12 - fix: update dependencies
