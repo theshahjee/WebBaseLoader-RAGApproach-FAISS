@@ -234,3 +234,4 @@
 2024-12-24 - fix: update dependencies
 2024-12-24 - feat: add helper method
 2024-12-25 - test: add basic unit test
+2024-12-26 - fix: minor bug in logic
