@@ -242,3 +242,4 @@
 2025-01-09 - docs: improve README
 2025-01-14 - style: fix spacing and lint errors
 2025-01-15 - chore: cleanup code formatting
+2025-01-22 - fix: minor bug in logic
