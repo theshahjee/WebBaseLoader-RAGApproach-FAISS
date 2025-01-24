@@ -243,3 +243,4 @@
 2025-01-14 - style: fix spacing and lint errors
 2025-01-15 - chore: cleanup code formatting
 2025-01-22 - fix: minor bug in logic
+2025-01-24 - docs: add inline comments for clarity
