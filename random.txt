@@ -245,3 +245,4 @@
 2025-01-22 - fix: minor bug in logic
 2025-01-24 - docs: add inline comments for clarity
 2025-01-24 - feat: add helper method
+2025-01-27 - fix: update dependencies
