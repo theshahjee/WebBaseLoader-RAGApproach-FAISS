@@ -247,3 +247,4 @@
 2025-01-24 - feat: add helper method
 2025-01-27 - fix: update dependencies
 2025-01-28 - chore: update requirements.txt
+2025-01-28 - fix: minor bug in logic
