@@ -249,3 +249,4 @@
 2025-01-28 - chore: update requirements.txt
 2025-01-28 - fix: minor bug in logic
 2025-01-29 - docs: improve README
+2025-01-29 - refactor: simplify function
