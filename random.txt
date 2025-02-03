@@ -251,3 +251,4 @@
 2025-01-29 - docs: improve README
 2025-01-29 - refactor: simplify function
 2025-01-29 - refactor: simplify function
+2025-02-03 - test: add basic unit test
