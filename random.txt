@@ -254,3 +254,4 @@
 2025-02-03 - test: add basic unit test
 2025-02-05 - docs: improve README
 2025-02-10 - fix: minor bug in logic
+2025-02-10 - fix: update dependencies
