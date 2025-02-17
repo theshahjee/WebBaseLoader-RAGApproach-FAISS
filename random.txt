@@ -255,3 +255,4 @@
 2025-02-05 - docs: improve README
 2025-02-10 - fix: minor bug in logic
 2025-02-10 - fix: update dependencies
+2025-02-17 - docs: add inline comments for clarity
