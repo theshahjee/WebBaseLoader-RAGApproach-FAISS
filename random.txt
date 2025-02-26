@@ -258,3 +258,4 @@
 2025-02-17 - docs: add inline comments for clarity
 2025-02-20 - fix: minor bug in logic
 2025-02-21 - chore: update requirements.txt
+2025-02-26 - feat: add helper method
