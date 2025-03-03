@@ -260,3 +260,4 @@
 2025-02-21 - chore: update requirements.txt
 2025-02-26 - feat: add helper method
 2025-02-26 - chore: cleanup code formatting
+2025-03-03 - docs: improve README
