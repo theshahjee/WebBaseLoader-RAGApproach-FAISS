@@ -266,3 +266,4 @@
 2025-03-04 - refactor: simplify function
 2025-03-04 - docs: add inline comments for clarity
 2025-03-17 - chore: update requirements.txt
+2025-03-17 - docs: improve README
