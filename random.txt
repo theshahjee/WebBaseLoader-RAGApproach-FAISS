@@ -270,3 +270,4 @@
 2025-03-17 - fix: minor bug in logic
 2025-03-19 - docs: add inline comments for clarity
 2025-03-20 - style: fix spacing and lint errors
+2025-03-20 - refactor: simplify function
