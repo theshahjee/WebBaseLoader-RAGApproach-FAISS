@@ -275,3 +275,4 @@
 2025-03-27 - docs: add inline comments for clarity
 2025-03-27 - refactor: simplify function
 2025-03-28 - refactor: simplify function
+2025-03-28 - fix: update dependencies
