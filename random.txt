@@ -277,3 +277,4 @@
 2025-03-28 - refactor: simplify function
 2025-03-28 - fix: update dependencies
 2025-03-31 - feat: add helper method
+2025-03-31 - docs: improve README
