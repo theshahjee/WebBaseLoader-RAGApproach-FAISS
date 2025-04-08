@@ -279,3 +279,4 @@
 2025-03-31 - feat: add helper method
 2025-03-31 - docs: improve README
 2025-04-01 - fix: minor bug in logic
+2025-04-08 - docs: improve README
