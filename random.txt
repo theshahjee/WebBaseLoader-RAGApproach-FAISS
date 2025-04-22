@@ -282,3 +282,4 @@
 2025-04-08 - docs: improve README
 2025-04-15 - feat: add helper method
 2025-04-21 - chore: update requirements.txt
+2025-04-22 - style: fix spacing and lint errors
