@@ -287,3 +287,4 @@
 2025-04-23 - fix: minor bug in logic
 2025-04-23 - chore: cleanup code formatting
 2025-04-24 - style: fix spacing and lint errors
+2025-04-24 - refactor: simplify function
