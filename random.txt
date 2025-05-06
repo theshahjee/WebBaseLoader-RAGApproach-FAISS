@@ -297,3 +297,4 @@
 2025-05-05 - fix: minor bug in logic
 2025-05-05 - fix: update dependencies
 2025-05-06 - chore: cleanup code formatting
+2025-05-06 - feat: add helper method
