@@ -304,3 +304,4 @@
 2025-05-14 - test: add basic unit test
 2025-05-14 - chore: update requirements.txt
 2025-05-15 - test: add basic unit test
+2025-05-15 - refactor: simplify function
