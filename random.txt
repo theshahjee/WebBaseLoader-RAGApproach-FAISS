@@ -312,3 +312,4 @@
 2025-05-29 - fix: minor bug in logic
 2025-05-30 - docs: improve README
 2025-05-30 - fix: update dependencies
+2025-06-03 - refactor: simplify function
