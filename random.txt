@@ -314,3 +314,4 @@
 2025-05-30 - fix: update dependencies
 2025-06-03 - refactor: simplify function
 2025-06-04 - test: add basic unit test
+2025-06-09 - fix: minor bug in logic
