@@ -316,3 +316,4 @@
 2025-06-04 - test: add basic unit test
 2025-06-09 - fix: minor bug in logic
 2025-06-09 - chore: cleanup code formatting
+2025-06-12 - docs: improve README
