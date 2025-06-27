@@ -321,3 +321,4 @@
 2025-06-17 - chore: cleanup code formatting
 2025-06-23 - fix: minor bug in logic
 2025-06-23 - feat: add helper method
+2025-06-27 - docs: improve README
