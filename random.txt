@@ -322,3 +322,4 @@
 2025-06-23 - fix: minor bug in logic
 2025-06-23 - feat: add helper method
 2025-06-27 - docs: improve README
+2025-06-30 - fix: minor bug in logic
