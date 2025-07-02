@@ -326,3 +326,4 @@
 2025-06-30 - docs: add inline comments for clarity
 2025-06-30 - docs: improve README
 2025-07-01 - test: add basic unit test
+2025-07-02 - chore: update requirements.txt
