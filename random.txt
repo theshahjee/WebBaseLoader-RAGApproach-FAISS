@@ -328,3 +328,4 @@
 2025-07-01 - test: add basic unit test
 2025-07-02 - chore: update requirements.txt
 2025-07-02 - chore: update requirements.txt
+2025-07-04 - feat: add helper method
