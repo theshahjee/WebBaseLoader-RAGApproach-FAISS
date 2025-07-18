@@ -337,3 +337,4 @@
 2025-07-14 - refactor: simplify function
 2025-07-14 - chore: update requirements.txt
 2025-07-18 - fix: minor bug in logic
+2025-07-18 - feat: add helper method
