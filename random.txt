@@ -348,3 +348,4 @@
 2025-07-31 - refactor: simplify function
 2025-08-01 - fix: update dependencies
 2025-08-06 - refactor: simplify function
+2025-08-13 - fix: minor bug in logic
