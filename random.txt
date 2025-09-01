@@ -354,3 +354,4 @@
 2025-08-22 - feat: add helper method
 2025-08-25 - refactor: simplify function
 2025-08-27 - docs: improve README
+2025-09-01 - chore: cleanup code formatting
